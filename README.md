@@ -14,4 +14,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaacmachado138&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=isaacmachado138&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=isaacmachado138&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)

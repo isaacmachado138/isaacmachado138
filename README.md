@@ -1,5 +1,5 @@
 <h1 align="center">Olá, eu sou Isaac Machado</h1>
-<h3 align="center">Desenvolvedor de softwares | Técnico em Informática</h3>
+<h3 align="center">Desenvolvedor de softwares </h3>
 
 - Email: **isaacmachado138@gmail.com**
 

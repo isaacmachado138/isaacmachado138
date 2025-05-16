@@ -13,7 +13,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=isaacmachado138&locale=en&hide_title=false&layout=compact&card_width=450&langs_count=10&theme=dracula&hide_border=false" height="200" alt="stats graph"  />
   </div>
   
-  <h3 align="left">Linguagens e habilidades:</h3>
+  <h3>Linguagens e habilidades:</h3>
   <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
     <img width="12" />
